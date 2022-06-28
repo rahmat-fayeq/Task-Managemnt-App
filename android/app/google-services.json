@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033062975674",
+    "project_id": "android-notification-df961",
+    "storage_bucket": "android-notification-df961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033062975674:android:3948f08a033dc717ab9a83",
+        "android_client_info": {
+          "package_name": "com.reactnativecliproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033062975674-h6bchi64fnj5cvolljlo698au624jfvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKj2KdJjk1fN0l2uXg55VOn4uCW4gglPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033062975674-h6bchi64fnj5cvolljlo698au624jfvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
